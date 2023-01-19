@@ -7,12 +7,16 @@
   padding: 4rem 5rem;
 }
 .my-gallery img {
+  cursor: pointer;
   width: 360px;
+  border: 1px solid blue;
   margin: 10px;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .section-heading {
+  color: blue;
+  font-weight: bolder;
   font-size: 2rem;
   padding: 2rem 0;
   text-transform: uppercase;
