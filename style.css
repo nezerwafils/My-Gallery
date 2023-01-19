@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.my-gallery {
+  padding: 4rem 5rem;
+}
+.my-gallery img {
+  width: 360px;
+  margin: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.section-heading {
+  font-size: 2rem;
+  padding: 2rem 0;
+  text-transform: uppercase;
+  letter-spacing: 0.5rem;
+}
